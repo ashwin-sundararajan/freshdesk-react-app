@@ -1,0 +1,24 @@
+{
+  "name": "freshdesk-react-app",
+  "version": "1.0.0",
+  "description": "Congratulations on creating your first app! Feel free to replace this text with your app's actual description.",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel --watch src --out-dir app --presets react-app/prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwin-sundararajan/freshdesk-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwin-sundararajan/freshdesk-react-app/issues"
+  },
+  "homepage": "https://github.com/ashwin-sundararajan/freshdesk-react-app#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
